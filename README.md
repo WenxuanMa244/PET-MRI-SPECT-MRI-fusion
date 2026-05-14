@@ -1,4 +1,4 @@
-# MATR: Multimodal Medical Image Fusion via Multiscale Adaptive Transformer (IEEE TIP 2022).
+Oringne:# MATR: Multimodal Medical Image Fusion via Multiscale Adaptive Transformer (IEEE TIP 2022).
 
 This is the official implementation of the MATR model proposed in the paper ([MATR: Multimodal Medical Image Fusion via Multiscale Adaptive Transformer](https://ieeexplore.ieee.org/document/9844446)) with Pytorch.
 
@@ -45,3 +45,4 @@ If this work is helpful to you, please cite it as:</p>
 </code></pre></div>
 
 If you have any questions,  feel free to contact me (<a href="mailto:weitang2021@whu.edu.cn">weitang2021@whu.edu.cn</a>).
+# Thanks for this article and for the paper MATR: Multimodal Medical Image Fusion via Multiscale Adaptive Transformer, as well as its repository. The code in this paper is reproducible: https://github.com/tthinking/MATR.
